@@ -367,6 +367,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "2ca538d6-0165-45a8-a217-aec1fb87c641";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -404,6 +405,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "4436e54f-1132-4192-9df3-754f17ddc640";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -415,7 +417,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TestJenkins222/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = long.TestJenkins222;
+				PRODUCT_BUNDLE_IDENTIFIER = me.long.Ganker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -426,7 +428,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TestJenkins222/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = long.TestJenkins222;
+				PRODUCT_BUNDLE_IDENTIFIER = me.long.Ganker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -496,6 +498,7 @@
 				CE9592181D68C3EA0055535D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE9592191D68C3EA0055535D /* Build configuration list for PBXNativeTarget "TestJenkins222Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +507,7 @@
 				CE95921B1D68C3EA0055535D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE95921C1D68C3EA0055535D /* Build configuration list for PBXNativeTarget "TestJenkins222UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +516,7 @@
 				CE95921E1D68C3EA0055535D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
